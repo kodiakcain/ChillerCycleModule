@@ -1,6 +1,6 @@
 # ChillerCycleModule
 
-This is a .NET console application to compute the Coefficient of Performance for a chiller cycle. Provided is a reusable CHillerCycleCalculator, an interactive console demo, and unit tests.
+This is a .NET console application to compute the Coefficient of Performance for a chiller cycle. Provided is a reusable CHillerCycleCalculator, an interactive console demo, and a few unit tests.
 
 ## Features 
 
